@@ -45,6 +45,10 @@ p{
   font-size: 14px;
 }
 
+class="twitter-timeline" {
+  align: left;
+}
+
 body{
   background:rgba(300, 300, 200, 0.5);
   text-align: center;
