@@ -1,0 +1,56 @@
+h1 {
+  text-align: center;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  color: orange;
+  font-size: 26px;
+}
+
+.topnav {
+  background-color: #ddd;
+  overflow: hidden;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+
+}
+
+.topnav a{
+  float: left;
+  color: orange;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.topnav a:hover{
+  background-color: grey;
+  color: black;
+}
+
+.topnav a:active {
+  background-color: grey;
+  color: white;
+}
+
+h2 {
+  text-align: left;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  color: orange;
+  font-size: 18px;
+}
+
+p{
+  text-align: justify;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  color: grey;
+  font-size: 14px;
+}
+
+body{
+  background:rgba(300, 300, 200, 0.5);
+  text-align: center;
+}
+
+header{
+  align-items: center;
+
+}
