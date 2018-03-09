@@ -5,6 +5,8 @@ h1 {
   font-size: 26px;
 }
 
+
+
 .topnav {
   background-color: #ddd;
   overflow: hidden;
@@ -107,4 +109,13 @@ header{
 
 .button:hover{
   background-color: #555;
+}
+
+.advert {
+  align: center;
+  padding: 8px;
+  display: inline;
+  width: 50%;
+  height: auto;
+
 }
