@@ -16,6 +16,12 @@ li{
 
 }
 
+#iefix {
+position:relative;
+z-index:1000;
+}
+
+
 .topnav a{
   float: left;
   color: orange;
