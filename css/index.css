@@ -126,12 +126,21 @@ body{
   align: center;
   padding: 20px;
   display: center;
-  width: 60%;
+  width: 100%;
   height: auto;
   margin: auto;
   border: 3px;
   border-color: orange;
 
+}
+
+.picture {
+  align: center;
+  padding: 20px;
+  display: center;
+  width: 60%;
+  height: auto;
+  margin: auto;
 }
 
 * {box-sizing: border-box}
