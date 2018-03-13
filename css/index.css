@@ -65,6 +65,10 @@ header{
   align-items: center;
 
 }
+.header {
+  height:300px;
+  width: auto;
+}
 
 .content {
   max-width: 960px;
