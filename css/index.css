@@ -50,7 +50,7 @@ h2 {
 }
 
 p{
-  text-align: justify;
+  text-align: center;
   font-family: 'Montserrat', sans-serif;
   color: grey;
   font-size: 18px;
@@ -61,11 +61,9 @@ body{
   text-align: center;
 }
 
-header{
-  align-items: center;
 
-}
 .header {
+  align-items: center;
   height:300px;
   width: auto;
 }
