@@ -122,10 +122,13 @@ header{
 
 .advert {
   align: center;
-  padding: 8px;
-  display: inline;
-  width: 95%;
+  padding: 20px;
+  display: center;
+  width: 60%;
   height: auto;
+  margin: auto;
+  border: 3px;
+  border-color: orange;
 
 }
 
